@@ -17,6 +17,8 @@ biến private trong lớp đói tượng khác.
 vậy thì sẽ tốt hơn nếu có biến int số người sở hữu và một mảng động để lưu thông tin những người này.
 
 5. Quên xóa bộ nhớ sau khi khai báo các mảng động
+
+6. Sử dụng override có thể tránh được lỗi chính tả khi sử dụng định nghĩa hàm ảo?
 */
 class Nguoi{
     private:
